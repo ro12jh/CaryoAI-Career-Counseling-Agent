@@ -39,7 +39,7 @@ How It Works
 Tools & Technologies
 
 Tool ->                      Purpose 
-IBM Watsonx ->               Agent creation 
+IBM Watsonx ->               Agent creation ;
 Granite-3-3-8b-instruct ->   LLM model 
 
 
